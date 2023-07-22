@@ -16,7 +16,7 @@ All the material inside this project is expected to work on matlab version r2014
 
 ### Installation
  - Unzip the project archive in a matlab working directory of your choice.
- - Add the coflow_material folder and its subfolders to the matlab path.
+ - Add the coflows_simulator folder and its subfolders to the matlab path.
 
 ### Launching example files
 Check the demo folder for a list of basic examples that focus on how to use the main usefull functionalities
