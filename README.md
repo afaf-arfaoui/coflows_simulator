@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 # coflows_simulator
-Coflow_simulator contains most of SOTA algorithms that deal with coflows scheduling. It generates traffic that mimics real traffic based on real datasets. It allows the assessment of the developed algorithms and their benchmark with SOTA ones.
+Coflow_simulator contains some well-known SOTA algorithms that deal with scheduling and resource allocation for coflows' traffic. 
+It generates traffic that mimics real one based on real datasets. 
+It allows the assessment of the developed algorithms and their benchmark with SOTA ones.
 =======
 # Coflow Material - LIA, 2021
 
