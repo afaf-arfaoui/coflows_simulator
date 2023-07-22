@@ -74,6 +74,7 @@ The +utils package contains tools such as displaying objects, transforming objec
  - coflowsToCSV: generate a CSV file describing a batch of coflows from an array of Coflow objects
  - fabricToCSV: generates a CSV file describing a fabric from a Fabric object
  - main_generator: generates a batch of coflows. Please refer to the demo folder for examples showing how to use
-
+### Authors
+This simulator was produced by Afaf Arfaoui and Cedric Richier at Laboratoire Informatique d'Avignon (LIA)
 
 >>>>>>> 51eecbc (first_commit)
